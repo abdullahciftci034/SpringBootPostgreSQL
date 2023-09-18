@@ -5,8 +5,8 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootPostragreSQLApplication {
+public class SpringBootPostgreSQLApplication {
     public static void main(String[] args) {
-        SpringApplication.run(SpringBootPostragreSQLApplication.class,args);
+        SpringApplication.run(SpringBootPostgreSQLApplication.class,args);
     }
 }
