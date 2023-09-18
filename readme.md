@@ -1,9 +1,16 @@
-# Getting Started
+## SpringBoot PostgreSQL App
 
-### Reference Documentation
-For further reference, please consider the following sections:
+### Kurulum
+```
+git clone https://github.com/abdullahciftci034/SpringBootPostgreSQL.git
+```
+```
+docker-compose up
+```
+```
+./mvnw spring-boot:run
+```
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/3.2.0-SNAPSHOT/maven-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/3.2.0-SNAPSHOT/maven-plugin/reference/html/#build-image)
+## Preview
 
+<img src="images/1.png">
