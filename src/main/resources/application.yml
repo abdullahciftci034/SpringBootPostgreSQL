@@ -1,0 +1,17 @@
+server:
+  port: 8081
+spring:
+  devtools:
+    restart:
+      enabled: true
+  datasource:
+    url: jdbc:postgresql://localhost:5432/abdullahdb
+    username: abdullah
+    password: abdullah123
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  application:
+    name: SpringBootPostgresSql
